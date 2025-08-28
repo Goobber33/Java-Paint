@@ -16,5 +16,5 @@ The program:
 1. Compile the program:
    ```bash
    javac Paint.java
-   
+
 ![Program Output](project.png)
