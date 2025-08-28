@@ -11,3 +11,10 @@ The program:
 2. Calculates the **wall area** in square feet.
 3. Determines how many **gallons of paint** are required (1 gallon covers 350 sq. ft.).
 4. Rounds up to the nearest whole number to determine the number of **paint cans needed**.
+
+## 🚀 How to Run
+1. Compile the program:
+   ```bash
+   javac Paint.java
+   
+![Program Output](project.png)
